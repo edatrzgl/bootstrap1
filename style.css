@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+}
+
+.header{
+    display: block;
+    background-color: black;
+    overflow: hidden;
+
+}
+
+.headerli{
+    float: left;
+    margin-top: 10px;
+    margin-right: 40px;
+}
